@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bitrix24-354011",
+  "private_key_id": "591a0295d8a1766df4867a14e799231c7b2c6365",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMKOoAWyDFzuTo\nPoIZWIvBh+WyoU1Kt8T1lWSFSESaAwvX62BSpPkx9A776Gc8VKJYADghSvWUEdBL\nNEDKkl45GVbQJL+MW/FNz1HMZR7f9+VkiqFS75eKQbQsJcNwEHLiSfDkxOs6rBJU\nb/zbdGiwmBxXTiVjGqjhYxQydxql5ClsbcjjClNQQD+hrz7e5FBArAbZA8NqSxQl\nWHfwh4hpcGrggh3G3bEF3g5ovbwWvpzvlf21k70hfNyKFcYKMx8KTaXnpWtO0RCy\n3BADYzEb1RxOBypV2X36f6I3EuVNTkQ8a6OQ4khZkfiCFzpZIj9mYUluEm3SgCdM\nUY4KslCTAgMBAAECggEARmZpYpwJ7gwNBUTgyeqtrpu1Cmby5yv9gA327rrf5Rfd\n0qP4wCbhQ2d8b0NRrg0lOiFBOcHGczu9TuGC4hec5CWnuPijELx3tjQiadAI2IR8\nFrJzNM0nvWYwwfR3s0IIy51hsxFwZ/gEDhfb4rT+kL6zLyvkWotL5wSqZ0iI6ODo\n/HJs7Ssyc2qQxSAY8T1X3IJL8I+8VMqksgJHOlAr8ctfsIL9TAUVn/npKCAotGb2\nWbGHTRY5Pmc+xThxRaJkW5Ksv5AG1Tij+0oTGhZ33xkAOzZJIPl1bb+hU27haD1J\nKvJfcCoTD1ARw3DnxKSJVmKniBm/Wr7NHWUHxbq9aQKBgQD/pYi1odE3TgZ6oT5q\nOMl+zN4hB2tKA/mFPzr6MSE0AIPeUfuNAFEwBZ0yAGU6e1xEMudMCi2D92MTg9EX\n6+4ylM4z1aFCacKd4rXcSNGmM+ndUMPZCmwWvQxNsFkfgjZfO5GiYmX8xGKQy8zO\n0oVggsThPBy6PybySnkqaZSJRQKBgQDMcSkMx6Csd4a31LGaX8cXnogOUVVETLe9\n8p8dNEyrRdlgb4whNOa5PlXw1No5cREYGo7xHyRnfRVpI7rWFRMjMioKZ9+LGupY\nFHelPoKFsEza6nmy+PQNytVzsE7lNzXrl/LjQigGMdxB2SxUpgWNZZZ43H+ow12m\nMZdDUybT9wKBgQCzUNgIlv1aLoeK4qkV9skXAPpZ7otJ+mm+FfD3ZxikEixs99Jb\nP7qy1W1CklZu4/J+/7mPc6AjbZX4LUCv59RHdGsCnrkjDW3uMwRfBFDRpJ5Il4sY\nJSBV/rqvj5+j40DiIbVwUla5KsL8T4dUFwRpArC4T+LSnNNjpetBXZdLhQKBgAkf\n39InMr+f0g5wWsDmF2+xbqcc8C5NMkIzCvD1vZpDUtFgCSQORWHtK07FYTwBFN87\niDewySIpTgRUSOl3JVSDz6aJPkvqFp15xGFGqfKnjLaUknvvao0XCXHRY6QNU8XB\nEWEdOcYVAZyawcTBaCwIZa/dP4FbvtlFC1hA5NG/AoGBAJLTJF5mzif3680WAl5y\nAtwQDBSQhXxUC5T/7kA0nYQol86Fjq5mbAerOqrOhy0XXpbOdUOqrP+mMsQSJg0Q\nNIfbJm5dofpeWwdlWLgg4iy6suEmXaA5ggvENcjzEfctkQ3gWxUD7w6TOz0Otxtc\nGDiz0LPsKW4Kj2zHHkfNDVZu\n-----END PRIVATE KEY-----\n",
+  "client_email": "connector-acc@bitrix24-354011.iam.gserviceaccount.com",
+  "client_id": "101754055206035460047",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/connector-acc%40bitrix24-354011.iam.gserviceaccount.com"
+}
