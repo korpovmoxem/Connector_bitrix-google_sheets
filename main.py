@@ -7,6 +7,8 @@ sh = sa.open('новый отчет по лидам')    # open sheet (need to g
 
 wks = sh.worksheet("сд2")   # open list
 
+wks.clear()  # clear worksheet
+
 cells = ''  # need to know range of cells for data list
 data_l = []  # data list for writing sheet
 temp_l = []  # temp data list
