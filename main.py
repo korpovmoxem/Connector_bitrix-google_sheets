@@ -2,7 +2,7 @@ import gspread
 from fast_bitrix24 import Bitrix
 
 # google sheets
-sa = gspread.service_account(filename='bitrix24-354011-591a0295d8a1.json')  # json-file with access (get from google console)
+sa = gspread.service_account(filename='')  # json-file with access (get from google console)
 sh = sa.open('новый отчет по лидам')    # open sheet (need to give access to service account)
 
 wks = sh.worksheet("сд2")   # open list
@@ -14,7 +14,7 @@ data_l = []  # data list for writing sheet
 temp_l = []  # temp data list
 
 # Вебхук
-webhook = 'https://m-union.bitrix24.ru/rest/8871/ke51119izesxw5md/'
+webhook = ''
 b = Bitrix(webhook)
 
 
